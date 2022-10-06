@@ -1,12 +1,9 @@
-package hilell;
+package hilell.l10;
 
 import hilell.l10.company.Person;
 
-public class Main {
-
+public class L10Main {
     public static void main(String[] args) {
 
-
-        System.out.println("Hello world!!!!!");
     }
 }
